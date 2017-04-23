@@ -23,6 +23,13 @@ public class Cao {
 			
 		
 	}
+	
+	public Cao(String nomeCao, int idadeCao){
+		
+		this.nome = nomeCao;
+		this.idade = idadeCao;
+				
+	}
 
 
 
